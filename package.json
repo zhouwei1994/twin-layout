@@ -1,0 +1,19 @@
+{
+  "name": "twin-layout",
+  "version": "1.0.0",
+  "description": "双生布局管理后台",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "465081029@qq.com",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": "ISC",
+  "keywords": [
+    "twin-layout",
+    "twin",
+    "layout"
+  ]
+}

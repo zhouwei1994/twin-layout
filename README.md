@@ -14,9 +14,10 @@
 ```
 
 ### 软件截图
-```
-正在整理中
-```
+![软件截图](https://qn.kemean.cn/upload/202010/16/16028284725665nhq5dx7.png)
+![软件截图](https://qn.kemean.cn/upload/202010/16/1602828505603zygqdnhj.png)
+![软件截图](https://qn.kemean.cn/upload/202010/16/1602828512411e0fhma93.png)
+![软件截图](https://qn.kemean.cn/upload/202010/16/16028285188324hkyty7p.png)
 
 ### 作者信息
 1. 邮箱：465081029@qq.com

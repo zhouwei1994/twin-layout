@@ -9,10 +9,8 @@
 体验密码：123123
 ```
 
-### 使用文档
-```
-正在整理中
-```
+### [使用文档](https://twin-ui.com/article)
+[使用文档](https://twin-ui.com/article)
 
 ### 软件截图
 ![软件截图](https://qn.kemean.cn/upload/202010/16/16028284725665nhq5dx7.png)
